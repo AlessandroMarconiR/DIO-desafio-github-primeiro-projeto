@@ -1,0 +1,4 @@
+link para download do git https://git-scm.com/downloads
+O git bash é um termnal estendido para otimizar o uso do git, e ele é em formato CLI(Comando Line Interface).
+
+
